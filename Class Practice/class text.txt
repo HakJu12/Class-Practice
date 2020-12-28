@@ -1,0 +1,24 @@
+#include "main.h"
+
+uning namespace std;
+
+inline void PrintText() {
+	printf("Hello World");
+	return;
+}
+
+
+void PrintText{} {
+	printf("Hello World");
+	return;
+}
+
+void PrintNum{int _Num} [
+	cout << _Num << endl;
+	return;
+}
+
+int main(void) {
+	PrintNum(12);
+	retrun 0;
+}
